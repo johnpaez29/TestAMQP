@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UZKcMmP3m0HZInOn1B/YBhpxXm2Cz/U85WILG+YbMR9EKgbcFoJQNLRd05RFRfjoi7eD7DxiRAact5xE7JfXDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jwpaez\\source\\repos\\AMQPTestSend\\AMQPTestSend2\\AMQPTestSend2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jwpaez\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\jwpaez\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\jwpaez\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\bin\Debug\netcoreapp3.1\AMQPTestReceive.exe
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\bin\Debug\netcoreapp3.1\AMQPTestReceive.deps.json
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\bin\Debug\netcoreapp3.1\AMQPTestReceive.runtimeconfig.json
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\bin\Debug\netcoreapp3.1\AMQPTestReceive.runtimeconfig.dev.json
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\bin\Debug\netcoreapp3.1\AMQPTestReceive.dll
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\bin\Debug\netcoreapp3.1\AMQPTestReceive.pdb
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\obj\Debug\netcoreapp3.1\AMQPTestReceive.csproj.AssemblyReference.cache
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\obj\Debug\netcoreapp3.1\AMQPTestReceive.AssemblyInfoInputs.cache
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\obj\Debug\netcoreapp3.1\AMQPTestReceive.AssemblyInfo.cs
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\obj\Debug\netcoreapp3.1\AMQPTestReceive.csproj.CoreCompileInputs.cache
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\obj\Debug\netcoreapp3.1\AMQPTestReceive.csproj.CopyComplete
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\obj\Debug\netcoreapp3.1\AMQPTestReceive.dll
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\obj\Debug\netcoreapp3.1\AMQPTestReceive.pdb
+C:\Users\jwpaez\source\repos\AMQPTestSend\AMQPTestReceive\obj\Debug\netcoreapp3.1\AMQPTestReceive.genruntimeconfig.cache
